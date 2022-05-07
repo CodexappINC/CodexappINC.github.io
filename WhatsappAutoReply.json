@@ -10,14 +10,14 @@
     "is_screen_show": "true",
     "isBackIns": "true",
     "is_exit_screen_ad_show": "true",
-    "is_first_screen_show": "false",
-    "is_second_screen_show": "false",
+    "is_first_screen_show": "true",
+    "is_second_screen_show": "true",
     "is_InterstitialShow": "true",
     "is_NativeShow": "true",
     "ins_Counter": "2",
     "isReviewDailog": "false",
-    "Privacy": "https://ankur-starsoup.blogspot.com/2022/01/gb-whats-version-2022.html",
-    "new_app_url": "https://play.google.com/store/apps/details?id=com.version.gbwhats.gbwhatsapp.gblatestversion",
+    "Privacy": "https://codexappinc.github.io/privacy_policy.html",
+    "new_app_url": "https://play.google.com/store/apps/details?id=gbwhats.gbwhatsapp.gblatestversion",
     "show_app_new_dialog": "false"
   }
 }
