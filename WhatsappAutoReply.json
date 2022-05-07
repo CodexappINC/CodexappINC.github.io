@@ -2,7 +2,7 @@
   "msg": "Thank You",
   "Status Code": "200",
   "data": {
-    "isActive": "false",
+    "isActive": "true",
     "Admob_native": "ca-app-pub-3940256099942544/2247696110",
     "Admob_Interstitial": "ca-app-pub-3940256099942544/1033173712",
     "Admob_Banner": "ca-app-pub-3940256099942544/6300978111",
@@ -14,7 +14,7 @@
     "is_second_screen_show": "false",
     "is_InterstitialShow": "true",
     "is_NativeShow": "true",
-    "ins_Counter": "2",
+    "ins_Counter": "3",
     "isReviewDailog": "false",
     "Privacy": "https://codexappinc.github.io/privacy_policy.html",
     "new_app_url": "https://play.google.com/store/apps/details?id=gbwhats.gbwhatsapp.gblatestversion",
